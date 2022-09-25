@@ -1,0 +1,45 @@
+﻿File Types Workshop
+Back to Outline
+________________
+
+
+
+
+
+
+
+
+
+
+Watch the video of this module
+
+
+
+
+File Types Workshop
+
+
+
+
+
+
+
+
+	
+
+
+
+Workshop
+1. Why are file types important?
+2. What is a filetype?
+3. Open RichTextExampleDocument.
+4. Explore the various “Download as” options
+5. Exercise: download the file as a .docx file to your computer and open it.
+   1. Is the extension visible on your computer when you download it? If not, change your system settings so that it is.
+   2. Which program opens this format by default?
+   3. Now open it with VS Code IDE.
+6. Exercise: download the file as .txt, .rtf, .docx and .html formats to your computer. 
+   1. Open all files with VS Code using the “drag and drop” method. What do you notice about each file?
+   2. Open all the files with Chrome using the “drag and drop” method. What do you notice?
+Explanation
+This workshop explores different file types as a way of showing that there are many ways to format a document, and HTML/CSS are just one way. It also provides the groundwork for understanding that handwritten code needs to be edited in plaintext, in a special editor (not MS Word) and given a special extension. HTML files can be opened by either a browser or an editor. The same exact document can be encoded in different formats.
